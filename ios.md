@@ -58,7 +58,7 @@
 # 技术探索
 
 熟悉runtime运用，理解runloop原理<br>
-熟悉AVFoundation、UIKit框架，熟悉Swift、html、js<br>
+熟悉AVFoundation、UIKit框架，了解Swift、html、js、Java 等语言<br>
 熟悉网络编程，了解HTTP协议，TCP/IP协议，UDP协议以及socket通信<br>
 熟悉数据持久化存储的方法，熟悉CoreData以及SQL的使用<br>
 熟悉代码混淆功能，了解class-dump等工具<br>
