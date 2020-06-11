@@ -60,8 +60,6 @@
 熟悉AVFoundation、UIKit框架，了解Swift、html、js、Java 等语言<br>
 熟悉网络编程，了解HTTP协议，TCP/IP协议，UDP协议以及socket通信<br>
 熟悉数据持久化存储的方法，熟悉CoreData以及SQL的使用<br>
-熟悉代码混淆功能，了解class-dump等工具<br>
-了解音视频的采集、混合、上传、播放等技术
 日常工作也会使用Angular，Java进行前后端开发<br>
 了解Spring Boot的开发模式
 
