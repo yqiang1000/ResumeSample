@@ -51,6 +51,7 @@
 熟练使用各种原生UI控件以及常见的第三方框架，能熟练自定义封装控件<br>
 熟悉网络编程和线程安全方面<br>
 面向对象编程，熟练运用Block、KVO、代理、通知等通信方法<br>
+熟练使用Xcode、IDEA、WebStorm、Navicat、Postman、Charles等开发工具<br>
 
 ---
 
@@ -62,7 +63,6 @@
 熟悉数据持久化存储的方法，熟悉CoreData以及SQL的使用<br>
 日常工作也会使用Angular，Java进行前后端开发<br>
 了解Spring Boot的开发模式
-熟练使用Xcode、IDEA、WebStorm、Navicat、Postman、Charles等开发工具
 
 ---
 
