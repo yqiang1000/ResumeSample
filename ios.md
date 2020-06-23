@@ -62,6 +62,7 @@
 熟悉数据持久化存储的方法，熟悉CoreData以及SQL的使用<br>
 日常工作也会使用Angular，Java进行前后端开发<br>
 了解Spring Boot的开发模式
+熟练使用Xcode、IDEA、WebStorm、Navicat、Postman、Charles等开发工具
 
 ---
 
