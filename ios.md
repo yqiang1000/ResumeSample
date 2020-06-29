@@ -62,7 +62,6 @@
 熟悉网络编程，了解HTTP协议，TCP/IP协议，UDP协议以及socket通信<br>
 熟悉数据持久化存储的方法，熟悉CoreData以及SQL的使用<br>
 日常工作也会使用Angular，Java进行前后端开发<br>
-了解Spring Boot的开发模式
 
 ---
 
