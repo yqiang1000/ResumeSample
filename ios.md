@@ -57,7 +57,7 @@
 
 ## 技术探索
 
-熟悉runtime运用，理解runloop原理<br>
+熟悉iOS底层、内存管理、KVO、KVC、runtime，runloop等底层原理<br>
 熟悉AVFoundation、UIKit框架，了解Swift、html、js、Java 等语言<br>
 熟悉网络编程，了解HTTP协议，TCP/IP协议，UDP协议以及socket通信<br>
 熟悉数据持久化存储的方法，熟悉CoreData以及SQL的使用<br>
